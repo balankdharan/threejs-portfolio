@@ -12,26 +12,26 @@ const renderContent = {
   1: (
     <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
       Hi, I am <span className="font-semibold">Dharan</span>
-      <br />A Software Engineer from India
+      <br />A Full Stack Developer from India
     </h1>
   ),
   2: (
     <InfoBox
-      text="Skilled in wide variety of technologies"
+      text="I work with React, Node.js, databases and a bit of everything in between"
       link="/about"
       btnText={"learn more"}
     />
   ),
   3: (
     <InfoBox
-      text="Done so many projects for upskilling , so that i can showcase my projects"
+      text="I build side projects to keep learning. Here are a few of them"
       link="/projects"
       btnText={"Visit my portfolio"}
     />
   ),
   4: (
     <InfoBox
-      text="You can contact me anytime take your sweet time to think "
+      text="Have an idea or a question? I'd love to hear from you"
       link="/contact"
       btnText={"let's chat"}
     />
